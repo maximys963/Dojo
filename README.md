@@ -1,2 +1,2 @@
 # Dojo
-道場 :japanese_castle:
+:japanese_castle: 道場 
