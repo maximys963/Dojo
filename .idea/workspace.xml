@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design patterns/factory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design patterns/singleton.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609838801393</updated>
-      <workItem from="1609838802778" duration="2752000" />
+      <workItem from="1609838802778" duration="3983000" />
     </task>
     <servers />
   </component>
