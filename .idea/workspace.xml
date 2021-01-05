@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design patterns/structural/flyWeight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design patterns/structural/proxy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design patterns/structural/flyWeight.js" beforeDir="false" afterPath="$PROJECT_DIR$/design patterns/structural/flyWeight.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609838801393</updated>
-      <workItem from="1609838802778" duration="9185000" />
+      <workItem from="1609838802778" duration="10433000" />
     </task>
     <servers />
   </component>

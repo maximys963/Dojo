@@ -15,7 +15,6 @@ class QuestionFactory{
     }
 
     getQuestionsWithAnswer(text){
-
         if (this.questions.length !== 0) {
             const userQuestion = this.questions.find((question) => question.text === text)
 
