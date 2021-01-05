@@ -13,6 +13,3 @@ class Star {
 const sun = new Star('Sun');
 
 const somethingElse = new Star('Sirius');
-
-console.log(sun);
-console.log(somethingElse)
