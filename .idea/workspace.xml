@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design patterns/behavioral/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design patterns/behavioral/iterator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design patterns/behavioral/chainOfResponsibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/design patterns/behavioral/chainOfResponsibility.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609838801393</updated>
       <workItem from="1609838802778" duration="11975000" />
-      <workItem from="1609953856022" duration="1111000" />
+      <workItem from="1609953856022" duration="3160000" />
     </task>
     <servers />
   </component>
