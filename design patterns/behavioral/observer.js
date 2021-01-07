@@ -1,7 +1,6 @@
 const INCREMENT = 'INCREMENT';
 const DECREMENT = 'DECREMENT';
 
-
 class Subject{
     constructor() {
         this.observers = []
@@ -31,7 +30,7 @@ class Observer {
     update(changes) {
         switch (changes.type){
             case INCREMENT:
-                this.state = this.state + 1
+                this.state = ++this.state
                 break;
             case DECREMENT:
                 this.state = --this.state
