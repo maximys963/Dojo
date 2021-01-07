@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design patterns/behavioral/mediator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design patterns/behavioral/observer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609838801393</updated>
       <workItem from="1609838802778" duration="11975000" />
-      <workItem from="1609953856022" duration="4476000" />
+      <workItem from="1609953856022" duration="5682000" />
     </task>
     <servers />
   </component>
