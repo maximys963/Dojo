@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="" />
+    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
       <updated>1609838801393</updated>
       <workItem from="1609838802778" duration="11975000" />
       <workItem from="1609953856022" duration="7738000" />
+      <workItem from="1610377418529" duration="275000" />
     </task>
     <servers />
   </component>
