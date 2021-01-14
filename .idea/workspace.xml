@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/actionTypes/weatherTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/actions/getWeatherData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/interfaces/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/reducers/mainReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/sagas/rootSaga.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/weather_forecust/src/store/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design patterns/creational/singleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/design patterns/creational/singleton.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react/weather_forecust/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/weather_forecust/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react/weather_forecust/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -29,10 +44,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/react/weather_forecust/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react/weather_forecust/src" />
       <recent name="$PROJECT_DIR$/design patterns/creational" />
     </key>
   </component>
@@ -46,7 +63,9 @@
       <updated>1609838801393</updated>
       <workItem from="1609838802778" duration="11975000" />
       <workItem from="1609953856022" duration="7738000" />
-      <workItem from="1610377418529" duration="275000" />
+      <workItem from="1610377418529" duration="4927000" />
+      <workItem from="1610529578055" duration="37000" />
+      <workItem from="1610529616625" duration="717000" />
     </task>
     <servers />
   </component>

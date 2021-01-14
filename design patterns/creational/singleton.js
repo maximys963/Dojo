@@ -1,6 +1,6 @@
 class Star {
     constructor(name) {
-        if(Star.isExists){
+        if(Star.isExists) {
             return Star.instance
         }
 
