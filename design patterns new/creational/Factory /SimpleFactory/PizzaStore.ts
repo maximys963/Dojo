@@ -13,7 +13,7 @@ class PizzaStore {
         const pizza = this.factory.createPizza(type)
 
         pizza.prepare()
-        pizza.prepare()
+        pizza.bake()
         pizza.cut()
         pizza.box()
 

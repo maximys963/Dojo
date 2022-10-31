@@ -1,7 +1,7 @@
-import Pizza from "../types/Pizza";
+import Pizza from "../../../types/Pizza";
 
-class CheesePizza implements Pizza {
-    name: string = 'cheese'
+class ChicagoCheesePizza implements Pizza {
+    name: string = 'Chicago cheese'
     ingredients: string[] = ['parmesan', 'cheddar', 'brie']
 
     prepare = () => {} // Could I say that there are fabric methods ?
@@ -10,4 +10,4 @@ class CheesePizza implements Pizza {
     box = () => {}
 }
 
-export default CheesePizza
+export default ChicagoCheesePizza

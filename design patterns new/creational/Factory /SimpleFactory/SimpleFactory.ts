@@ -6,7 +6,8 @@ import VeggiePizza from "./pizza/VeggiePizza";
 import PizzaTypes from "./enums/PizzaTypes";
 
 class SimpleFactory {
-    public createPizza = (type: PizzaTypes) => {
+    public createPizza = (type: PizzaTypes) => { // Could I say that there is fabric methods ?
+        // It's exact creation method ...
         if(type === PizzaTypes.Cheese){
             return new CheesePizza()
         } else if(type === PizzaTypes.Pepperoni){
