@@ -3,7 +3,6 @@
 
 // Smart home have several devices that track this warning and should make some actions due to "incident"
 
-
 class FloodSensor {
     private isFlood = false
     public floodEvent: FloodEventManager
