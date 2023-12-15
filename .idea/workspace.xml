@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="add test sandbox">
+    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="upd package files">
+      <change afterPath="$PROJECT_DIR$/tests_park/src/createList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_park/src/dataFetcher.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,21 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/maximpanasenko/Desktop/WAY/Dojo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;/Users/maximpanasenko/.nvm/versions/node/v18.14.2/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/maximpanasenko/Desktop/WAY/Dojo/tests_park/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/maximpanasenko/Desktop/WAY/Dojo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/Users/maximpanasenko/.nvm/versions/node/v18.14.2/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/Users/maximpanasenko/Desktop/WAY/Dojo/tests_park/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/design patterns new/creational/Factory /FabricMethod/stores/NYStylesPizzaStore" />
@@ -133,6 +137,7 @@
       <workItem from="1676281206931" duration="2208000" />
       <workItem from="1683380485007" duration="2292000" />
       <workItem from="1702540350892" duration="2535000" />
+      <workItem from="1702626929743" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="add own observer example">
       <created>1666430511478</created>
@@ -177,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702542692905</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="upd git ignore">
+      <option name="closed" value="true" />
+      <created>1702627057320</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702627057320</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upd package files">
+      <option name="closed" value="true" />
+      <created>1702627178004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702627178004</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +227,9 @@
     <MESSAGE value="add mediator draft" />
     <MESSAGE value="test infer" />
     <MESSAGE value="add test sandbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test sandbox" />
+    <MESSAGE value="upd git ignore" />
+    <MESSAGE value="upd package files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd package files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
