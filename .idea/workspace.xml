@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="add more factory examples">
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/Mediator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/UIMediator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/components/Button.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/components/Checkbox.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/components/Input.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design patterns new/creational/Mediator/index.ts" afterDir="false" />
+    <list default="true" id="0dc212e5-c353-4763-a568-95cdc8534682" name="Default Changelist" comment="add test sandbox">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design patterns new/behavoiral/Observer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/design patterns new/behavoiral/Observer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design patterns new/creational/Factory /SimpleFactory/PizzaStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/design patterns new/creational/Factory /SimpleFactory/PizzaStore.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +26,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="1me0YuRIY015pdAnb3tYbdroLAB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/maximpanasenko/Desktop/WAY/Dojo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/Users/maximpanasenko/.nvm/versions/node/v18.14.2/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/maximpanasenko/Desktop/WAY/Dojo/tests_park/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/design patterns new/creational/Factory /FabricMethod/stores/NYStylesPizzaStore" />
@@ -66,6 +63,48 @@
       <recent name="$PROJECT_DIR$/design patterns new/creational" />
       <recent name="$PROJECT_DIR$/react/weather_forecust/src" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.coverage">
+    <configuration name="adds 1 + 2 to equal 3" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/tests_park/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$/tests_park" />
+      <vitest-options value="--run" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests_park/src/sum.test.ts" />
+      <test-names>
+        <test-name value="adds 1 + 2 to equal 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="coverage" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/tests_park/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="coverage" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/tests_park/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.coverage" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Vitest.adds 1 + 2 to equal 3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -91,7 +130,9 @@
       <workItem from="1667846501067" duration="1467000" />
       <workItem from="1667932250587" duration="3815000" />
       <workItem from="1668018941206" duration="525000" />
-      <workItem from="1676281206931" duration="2125000" />
+      <workItem from="1676281206931" duration="2208000" />
+      <workItem from="1683380485007" duration="2292000" />
+      <workItem from="1702540350892" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="add own observer example">
       <created>1666430511478</created>
@@ -114,7 +155,29 @@
       <option name="project" value="LOCAL" />
       <updated>1667203351158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mediator draft">
+      <created>1676284763922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676284763923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test infer">
+      <created>1683387093788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683387093788</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add test sandbox">
+      <option name="closed" value="true" />
+      <created>1702542692905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702542692905</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +203,10 @@
     <MESSAGE value="add own observer example" />
     <MESSAGE value="add simple factory" />
     <MESSAGE value="add more factory examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add more factory examples" />
+    <MESSAGE value="add mediator draft" />
+    <MESSAGE value="test infer" />
+    <MESSAGE value="add test sandbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test sandbox" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

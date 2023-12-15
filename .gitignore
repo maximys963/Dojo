@@ -1,1 +1,2 @@
-./tests_park/node_modules
+/tests_park/coverage/
+/tests_park/node_modules/
