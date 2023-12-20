@@ -14,7 +14,7 @@ export async function dateFetcher(apiUrl: string) {
     return processFetchedData(data);
 }
 
-function processFetchedData(data: { ticketId: string, date: string }[]) {
+export function processFetchedData(data: { ticketId: string, date: string }[]) {
     return data.map((item) => {
         const date = new Date(item.date);
         return { ...item, date };
