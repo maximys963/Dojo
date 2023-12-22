@@ -5,7 +5,7 @@
  *
  */
 
-function isWithinDateRange(date: Date, startDate: Date, endDate: Date) {
+export function isWithinDateRange(date: Date, startDate: Date, endDate: Date) {
     const d = new Date(date);
     const start = new Date(startDate);
     const end = new Date(endDate);
